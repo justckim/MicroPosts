@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Post 1",
+      "body": "One small post for man. One giant post for mankind! ",
+      "id": 1
+    },
+    {
+      "title": "Post 2",
+      "body": "This is post 2",
+      "id": 2
+    },
+    {
+      "title": "Post three",
+      "body": "This is post three",
+      "id": 3
+    }
+  ]
+}
