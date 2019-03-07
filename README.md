@@ -1,6 +1,7 @@
 This application utilizes Babel Webpack Starter to compile the JS modules into a single executable. JSON Server is used to simulate a full REST API. 
 
-![alt text](/screens/img1.jpg | width=100)
+![alt text](https://raw.githubusercontent.com/justckim/microposts/master/screens/img1.jpg)
+<img src="https://raw.githubusercontent.com/justckim/microposts/master/screens/img1.jpg" width=50>
 ![alt text](/screens/img2.jpg)
 
 
