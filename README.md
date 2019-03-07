@@ -2,7 +2,6 @@ This application utilizes Babel Webpack Starter to compile the JS modules into a
 
 # Home
 <img src="https://raw.githubusercontent.com/justckim/microposts/master/screens/img1.jpg" width=800>
-
 # Edit Posts
 <img src="https://raw.githubusercontent.com/justckim/microposts/master/screens/img2.jpg" width=800>
 
