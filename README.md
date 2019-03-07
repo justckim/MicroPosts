@@ -1,4 +1,4 @@
-This application utilizes Babel Webpack Starter to compile the JS modules into a single build. JSON Server is used to simulate a full REST API. 
+This application utilizes Babel Webpack Starter to compile the JS modules into a single executable. JSON Server is used to simulate a full REST API. 
 
 
 # Babel Webpack Starter
